@@ -23,6 +23,7 @@ Run the index.html file after downloading the project or simply u can visit <a t
 - Deployed from VERCEL
 
 
+
 ## Contributions
 
 This project would not have been possible without the efforts of the following people:
